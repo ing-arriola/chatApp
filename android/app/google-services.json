@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919958234424",
+    "project_id": "super-chat-dd160",
+    "storage_bucket": "super-chat-dd160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919958234424:android:3da9a1871f08c474344dcd",
+        "android_client_info": {
+          "package_name": "co.jarriola.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919958234424-a05r1e02psco4al7l8c44a2s5bj24jj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfbVtlGve2bet9EqjTdUFth4lBMkN8nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919958234424-a05r1e02psco4al7l8c44a2s5bj24jj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
